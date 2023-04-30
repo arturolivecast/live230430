@@ -4,3 +4,27 @@ Bases de datos - Parte 1
 Notas del primer evento en vivo. 
 
 Bases de datos relacionales: https://es.wikipedia.org/wiki/Base_de_datos_relacional
+Normalización: https://appmaster.io/es/blog/que-es-la-normalizacion-de-datos
+
+Para empezar a usar bases de datos, opciones:
+
+1. https://www.w3schools.com/sql/
+2. https://livesql.oracle.com/
+   SELECT * FROM v$version;
+   SELECT * FROM hr.employees;
+   SELECT employee_id, first_name, last_name, email, salary FROM hr.employees;
+   SELECT * FROM hr.departments;
+   SELECT * FROM hr.locations;
+   SELECT * FROM hr.countries;
+   SELECT * FROM hr.regions;
+3. https://learn.microsoft.com/es-MX/training/paths/get-started-querying-with-transact-sql/
+4. https://microsoftlearning.github.io/dp-080-Transact-SQL/Instructions/Labs/00-setup.html
+5. https://www.postgresql.org/about/
+
+Para aprender más sobre administración de bases de datos
+https://learn.microsoft.com/es-mx/certifications/exams/dp-300
+
+Para aprender más sobre ingeniería de datos
+https://learn.microsoft.com/es-mx/certifications/exams/dp-203
+
+
