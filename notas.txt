@@ -3,4 +3,4 @@ Bases de datos - Parte 1
 
 Notas del primer evento en vivo. 
 
-
+Bases de datos relacionales: https://es.wikipedia.org/wiki/Base_de_datos_relacional
